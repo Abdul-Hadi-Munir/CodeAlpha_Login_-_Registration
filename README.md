@@ -1,2 +1,16 @@
 # CodeAlpha_Login_-_Registration
-This repository contains all the completed tasks for my C++ Programming Internship at CodeAlpha. Each project demonstrates my understanding of C++ concepts including object-oriented programming, data structures, algorithms, file handling, and problem-solving.
+# Login & Registration System – CodeAlpha C++ Internship
+
+This project simulates a basic login and registration system using C++. It allows users to register and securely log in using stored credentials.
+
+## Features
+- User registration with username and password
+- Duplicate username detection
+- Credentials stored in `users.txt`
+- User login with success/error messages
+
+## Technologies Used
+- C++
+- File handling (ofstream, ifstream)
+- Advanced authentication logic
+- Class - OOP 
